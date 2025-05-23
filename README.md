@@ -30,6 +30,14 @@ O **ImobPrime** é um website voltado para facilitar a busca pelo imóvel ideal.
 ### Backend
 - **Node js**
 
+### Partes vizuais do projecto
+![Image](https://github.com/user-attachments/assets/d0e7cb0b-89e0-491b-8382-755d37b384c3)
+![Image](https://github.com/user-attachments/assets/9977fea5-977a-4dce-af88-b9298110b72f)
+![Image](https://github.com/user-attachments/assets/d718a8cd-c9e8-40b7-b3ca-9770e335c4e1)
+![Image](https://github.com/user-attachments/assets/bd36be72-3ddf-4386-a78c-1535219ca3e0)
+![Image](https://github.com/user-attachments/assets/b0bd1727-82c5-44c0-83dc-c1d094ce55ed)
+![Image](https://github.com/user-attachments/assets/5227b6ea-d8bf-4144-a7db-f26e35239ce9)
+![Image](https://github.com/user-attachments/assets/6aadf964-7ae5-4a7f-b83f-66fff6d49470)
 
 ### Outros
 - Fontes e ícones customizados (Material Icons, emojis)
