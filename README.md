@@ -28,8 +28,8 @@ O **ImobPrime** é um website voltado para facilitar a busca pelo imóvel ideal.
 - **Blade (Laravel templating)**
 
 ### Backend
-- **PHP**
-- **Laravel (ou outro framework PHP equivalente)**
+- **Node js**
+
 
 ### Outros
 - Fontes e ícones customizados (Material Icons, emojis)
@@ -70,7 +70,7 @@ O **ImobPrime** é um website voltado para facilitar a busca pelo imóvel ideal.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com//you.git
+   git clone https://github.com/JoaoLaurindoTchiwilaJT/youngimobiliaria
 ````
 
 2. Instale as dependências (caso esteja usando Laravel):
